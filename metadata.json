@@ -1,0 +1,5 @@
+{
+  "name": "True or False Door Game",
+  "description": "A retro 2D pixel-art game where you answer true or false questions by choosing one of two doors. Assets are generated dynamically using AI.",
+  "requestFramePermissions": []
+}
